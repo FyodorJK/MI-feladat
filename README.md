@@ -1,0 +1,2 @@
+# MI-feladat
+csoportos feladat
